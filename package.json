@@ -37,7 +37,8 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "switcher-roo"
+            "name": "switcher-roo",
+            "iconUrl": "https://github.com/ezist/switcher-roo/blob/master/favicon.ico?raw=true"
           }
         },
         {
