@@ -1,0 +1,23 @@
+{
+  "name": "switcher-roo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QTDerg/switcher-roo.git"
+  },
+  "author": "QTDerg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QTDerg/switcher-roo/issues"
+  },
+  "homepage": "https://github.com/QTDerg/switcher-roo#readme",
+  "devDependencies": {
+    "electron": "^11.0.4"
+  }
+}
